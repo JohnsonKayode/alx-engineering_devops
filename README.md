@@ -1,1 +1,1 @@
-The first Shell basics project
+This is the redirection directory
